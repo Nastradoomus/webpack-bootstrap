@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manchenkoff/webpack-bootstrap.git"
+    "url": "git+https://github.com/Nastradoomus/webpack-bootstrap.git"
   },
   "keywords": [
     "webpack",
