@@ -1,5 +1,9 @@
 # Webpack Bootstrap 4 template
 
+## Used for AMKoodari Bootstrap course
+
+[Certificate](https://techclass.io/certificate/GHG8VACG)
+
 ### Description
 
 This project contains preconfigured Webpack 4 to work with the following tasks:
